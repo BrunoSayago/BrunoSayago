@@ -9,7 +9,7 @@
 
 - ⚡ Sou apaixonado por: **jogos eletrônicos, esportes e comida.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Sayago" alt="Bruno Sayago most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSayago" alt="Bruno Sayago most used languages">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

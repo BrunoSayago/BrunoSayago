@@ -5,6 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo sobre **Back-End (Docker)**
 
+- 🎯 Focado em **Front-End**
+
 - 📫 Meu e-mail para contato: **brunossgripp@gmail.com**
 
 - ⚡ Sou apaixonado por: **jogos eletrônicos, esportes e comida.**

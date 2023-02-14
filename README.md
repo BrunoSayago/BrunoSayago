@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋! Me chamo Bruno Sayago</h1>
-<h3 align="center">Sou um aspirante à Full-Stack Web Developer</h3>
+<h3 align="center">Sou um Desenvolvedor Web Full-Stack</h3>
 
-- 🔭 Estou em formação no curso da Trybe [Você pode ver um pouco do meu aprendizado neste repositório:](https://github.com/BrunoSayago/exercicios-trybe)
+- 🔭 Estou terminando minha formação no curso da Trybe. Sinta-se à vontade de explorar os repositórios do meu perfil, que contêm os projetos que realizei durante o curso.
 
-- 🌱 Atualmente estou aprendendo sobre **Back-End (Docker)**
+- 🌱 Atualmente estou aprendendo sobre **Programação Orientada à Objetos (POO) e SOLID**
 
-- 🎯 Focado em **Front-End**
+- 🎯 Estou disponível para ser contratado.
 
 - 📫 Meu e-mail para contato: **brunossgripp@gmail.com**
 

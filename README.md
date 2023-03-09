@@ -3,7 +3,7 @@
 
 - 🔭 Estou terminando minha formação no curso da Trybe. Sinta-se à vontade de explorar os repositórios do meu perfil, que contêm os projetos que realizei durante o curso.
 
-- 🌱 Atualmente estou aprendendo sobre **Programação Orientada à Objetos (POO) e SOLID**
+- 🌱 Atualmente estou aprendendo sobre **MongoDB e NOSQL**
 
 - 🎯 Estou disponível para ser contratado.
 
